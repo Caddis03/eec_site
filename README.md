@@ -1,6 +1,6 @@
 # eec_site
 Church Website using Django Framework
-
+change
 //HOME PAGE
 
 # Directs viewers towards Social mediaa pages and other pages on the site
